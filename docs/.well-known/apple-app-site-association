@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "E9VNW4TD6Q.happy.anchoys.openings.explorer",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
